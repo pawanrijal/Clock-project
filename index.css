@@ -35,3 +35,10 @@
     top: 10%;
     
 }
+
+#text{
+    position:absolute;
+    left: 300px;
+    top:150px;
+    font-family: sans-serif;
+}
